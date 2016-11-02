@@ -1,10 +1,13 @@
-# These are the project files for the project and section they are featured in
+## This is a simple Angular 2 Website with Bootstrap Jumbotron page header and pages Routing functionality.
 
-# Install the dependencies
+## These are the project files for the project and section they are featured in
 
-npm install
+## Install the dependencies
 
-# Start the application
+	npm install
 
-npm start
+## Start the application
 
+	npm start
+
+Thats it! Enjoy.
